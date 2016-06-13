@@ -1,0 +1,12 @@
+{
+ "001": ["A _ pedig intenzív mennyiség, ennek értéke _ a tekintett rendszer méretétől.", "sűrűség", "nem függ", ""],
+ "002": ["A _ - tenzora főátlón kivüli elemei a _ feszültségek.", "feszültség", "csúsztató", ""],
+ "003": ["A statikus hőmérséklet a részecskék _ mozgásának átlagos _ energiája, egy, empirikus skálán mérve.", "rendezetlen", "kinematikai", ""],
+ "004": ["A _ valamely _-ben elhelyezkedő, egységnyi tömegre ható erő.", "térerősség", "erőtér", ""],
+ "005": ["A relatív térfogat változási sebesség a _ tenzor simmetrikus részének főűtlójában álló elemeinek összege, éppen a sebességtér adott pontban vett _-ával egyenlő.", "derivált", "divergencia", ""],
+ "006": ["A _ egy (kijelölt) elemi folyadékrészecske útja", "pályavonal", "", ""],
+ "007": ["Az Euler egyenlet, az _ tételhez hasonlóan a _ megmaradás elvére épül.", "impulzus", "mozgásmennyiség", ""],
+ "008": ["A _ működése során a rajta keresztüláramló _-tól/-től energiát vesz el.", "szélkerék", "levegő", ""],
+ "009": ["A Laval-csőben kialakuló áramlásban tehát a kritikus keresztmetszet jellemzői és a _ _ sebesség csak a _ és az anyagjellemzők függvénye.", "legnagyobb", "kiáramlási", "tartályállapot"],
+ "010": ["A Newton-i folyadékokra jellemző, hogy a bennük létrejövő _ feszültség a dinamikai viszkozítással és a _ _ egyenesen arányos.", "csúsztató", "deformáció", "sebességgel"]
+}
